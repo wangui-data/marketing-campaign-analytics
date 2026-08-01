@@ -1,6 +1,6 @@
 # marketing-campaign-analytics
 
-# 💄 Aura Beauty: Q2 Digital Marketing & Unit Economics Analysis
+# 💄 Aura Beauty: Q2 Digital Marketing Analysis
 
 ![Domain](https://img.shields.io/badge/Domain-E--Commerce%20%26%20Marketing-brightgreen?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge)
