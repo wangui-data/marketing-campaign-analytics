@@ -232,6 +232,6 @@ After completing this project, stakeholders will understand:
 
 **Esther Wangui Chege**
 
-Aspiring Data Analyst | SQL | Power BI | Excel | Python
+Aspiring Data Analyst | SQL | Power BI | Excel 
 
 ---
