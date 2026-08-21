@@ -53,6 +53,34 @@ This project rebuilds all calculations using proper weighted aggregation.
 
 ---
 
+### 4️⃣ Campaign Performance
+
+Which individual campaigns are driving or dragging overall marketing performance?
+
+In particular:
+
+- Which campaigns have the highest ROAS?
+- Which campaigns have the lowest CPA?
+- Which campaigns generate the most conversions?
+- Which campaigns generate the highest LTV?
+- Which campaigns have high spend but poor returns?
+- Which campaigns should potentially be scaled, optimized, or discontinued?
+
+---
+
+### 5️⃣Budget Allocation
+
+Where should future marketing investment be concentrated?
+
+In particular:
+
+- Which channels demonstrate the strongest overall performance?
+- Which campaigns appear most scalable?
+- Which channels have high spend but weak returns?
+- Where are there opportunities to reduce inefficient spending?
+- If additional budget were available, which channels/campaign types would deserve priority?
+
+---
 # 🚀 Project Objectives
 
 ✔ Evaluate campaign performance across marketing channels.
@@ -228,31 +256,7 @@ LTV:CAC = LTV / CAC
 
 ---
 
-# ✅ Ground Truth Validation
-
-### Campaign-Level Validation
-
-| Metric | Expected |
-|---------|---------:|
-| CTR | 4.00% |
-| CPC | $0.50 |
-| Conversion Rate | 5.00% |
-| ROAS | 5.00x |
-| CAC | $10.00 |
-| LTV:CAC | 15.0x |
-
----
-
-### Portfolio-Level Validation
-
-| KPI | Correct Value |
-|------|--------------:|
-| Portfolio CTR | **3.40%** |
-| Conversion Rate | **5.69%** |
-| CPC | **$0.59** |
-| ROAS | **5.47x** |
-| CAC | **$10.34** |
-
+# ✅
 ---
 
 # 📊 Deliverables
