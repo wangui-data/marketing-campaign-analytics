@@ -56,13 +56,23 @@ This project rebuilds all calculations using proper weighted aggregation.
 
 # 🚀 Project Objectives
 
-✔ Build robust SQL models from raw campaign data
+✔ Evaluate campaign performance across marketing channels.
+
+✔ Calculate CTR, conversion rate, CPC, CPA and ROAS.
+
+✔ Compare ad spend against revenue generated.
+
+✔ Identify high- and low-performing campaigns.
+
+✔ Analyze customer value using LTV.
 
 ✔ Develop reusable DAX measures in Power BI
 
-✔ Prevent incorrect averaging of ratio metrics
+✔ Compare performance across audiences, locations and campaign types.
 
-✔ Validate all calculations against benchmark values
+✔ Develop an interactive Power BI dashboard.
+
+✔ Prevent incorrect averaging of ratio metrics
 
 ✔ Recommend optimal Q3 budget allocation
 
