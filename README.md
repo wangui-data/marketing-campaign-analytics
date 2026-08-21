@@ -301,6 +301,6 @@ The final recommendations focus on how the marketing team should redistribute ad
 
 **Wangui Esther**
 
-Aspiring Data Analyst | SQL | Power BI | Excel 
+ Data Analyst | Power BI | Excel 
 
 ---
