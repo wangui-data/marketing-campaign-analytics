@@ -230,7 +230,7 @@ After completing this project, stakeholders will understand:
 
 # 👤 Author
 
-**Esther Wangui Chege**
+**Wangui Esther**
 
 Aspiring Data Analyst | SQL | Power BI | Excel 
 
