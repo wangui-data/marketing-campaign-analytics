@@ -3,7 +3,6 @@
 # 💄 Aura Beauty: Q2 Digital Marketing Analysis
 
 ![Domain](https://img.shields.io/badge/Domain-E--Commerce%20%26%20Marketing-brightgreen?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-Modeling-darkgreen?style=for-the-badge)
 
@@ -148,29 +147,46 @@ Derived marketing metrics were intentionally removed so they could be calculated
 This project will help investigate
 **Channel performance**
 Which channels generate the most impressions, clicks, conversions and revenue?
+
 Which channels have the highest CTR?
+
 Which channels have the highest conversion rate?
+
 Which channels have the best ROAS?
+
 
 **Campaign performance**
 Which campaigns generate the most revenue?
+
 Which campaigns have the highest ROAS?
+
 Which campaigns have the lowest CPA?
+
 Which campaigns are underperforming relative to their spend?
+
 
 **Customer quality**
 Which campaigns generate the highest LTV?
+
 Does higher conversion volume correspond to higher customer value?
+
 Which channels attract the most valuable customers?
+
 
 **Audience & geography**
 Which target audiences perform best?
+
 Which locations generate the most revenue?
+
 Are some audiences expensive to acquire but highly valuable?
+
 
 **Budget allocation**
 Where should additional marketing budget be allocated?
+
 Which channels/campaign types should potentially receive less investment?
+
+
 ---
 
 # 📐 KPI Definitions
@@ -235,7 +251,6 @@ LTV:CAC = LTV / CAC
 
 # 📊 Deliverables
 
-- ✔ SQL scripts
 - ✔ Data cleaning workflow
 - ✔ Power BI dashboard
 - ✔ DAX calculations
