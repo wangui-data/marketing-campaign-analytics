@@ -83,7 +83,6 @@ This project rebuilds all calculations using proper weighted aggregation.
 | Tool | Purpose |
 |-------|----------|
 | **Excel** | Initial exploration & data cleaning |
-| **SQL** | Data transformation and KPI calculations |
 | **Power BI** | Dashboard creation & executive reporting |
 | **DAX** | Dynamic marketing metrics |
 | **GitHub** | Documentation & project portfolio |
@@ -108,9 +107,29 @@ Derived marketing metrics were intentionally removed so they could be calculated
 | Impressions | Number of ad views |
 | Clicks | Number of clicks |
 | Conversions | Purchases generated |
-| Ad Spend | Marketing spend ($) |
+| Ad_Spend | Marketing spend ($) |
 | Revenue | Revenue generated ($) |
 | LTV | Estimated customer lifetime value |
+
+---
+
+# 📖 Data Dictionary
+
+| Column          | Description                | Type      |
+| --------------- | -------------------------- | --------- |
+| Campaign        | Campaign identifier/name   | Dimension |
+| Date            | Campaign activity date     | Date      |
+| Channel         | Marketing channel          | Dimension |
+| Campaign Type   | Type of marketing campaign | Dimension |
+| Target Audience | Intended customer segment  | Dimension |
+| Location        | Geographic market          | Dimension |
+| Language        | Campaign language          | Dimension |
+| Impressions     | Number of ad views         | Measure   |
+| Clicks          | Number of clicks           | Measure   |
+| Conversions     | Number of conversions      | Measure   |
+| Ad Spend        | Amount spent               | Measure   |
+| Revenue         | Revenue generated          | Measure   |
+| LTV             | Customer lifetime value    | Measure   |
 
 ---
 
@@ -118,24 +137,40 @@ Derived marketing metrics were intentionally removed so they could be calculated
 
 | Campaign | Channel | Impressions | Clicks | Conversions | Spend | Revenue | LTV |
 |-----------|----------|------------:|-------:|------------:|------:|--------:|----:|
-| CMP-001 | Meta | 50,000 | 2,000 | 100 | $1,000 | $5,000 | $150 |
-| CMP-002 | Google | 20,000 | 1,500 | 150 | $1,200 | $9,000 | $150 |
-| CMP-003 | TikTok | 80,000 | 1,600 | 40 | $800 | $2,400 | $100 |
+| CMP-000001 | Meta | 50,000 | 2,000 | 100 | $1,000 | $5,000 | $150 |
+| CMP-000002 | Google | 20,000 | 1,500 | 150 | $1,200 | $9,000 | $150 |
+| CMP-000003 | TikTok | 80,000 | 1,600 | 40 | $800 | $2,400 | $100 |
 
 ---
 
 # ❓ Key Business Questions
 
-This project answers questions such as:
+This project will help investigate
+**Channel performance**
+Which channels generate the most impressions, clicks, conversions and revenue?
+Which channels have the highest CTR?
+Which channels have the highest conversion rate?
+Which channels have the best ROAS?
 
-- Which channel has the highest ROAS?
-- Which platform acquires customers at the lowest cost?
-- Does TikTok's large reach generate profitable customers?
-- Which platform has the strongest LTV:CAC ratio?
-- Which campaigns should receive additional funding?
-- Which campaigns should be paused?
-- How should Aura Beauty allocate its Q3 marketing budget?
+**Campaign performance**
+Which campaigns generate the most revenue?
+Which campaigns have the highest ROAS?
+Which campaigns have the lowest CPA?
+Which campaigns are underperforming relative to their spend?
 
+**Customer quality**
+Which campaigns generate the highest LTV?
+Does higher conversion volume correspond to higher customer value?
+Which channels attract the most valuable customers?
+
+**Audience & geography**
+Which target audiences perform best?
+Which locations generate the most revenue?
+Are some audiences expensive to acquire but highly valuable?
+
+**Budget allocation**
+Where should additional marketing budget be allocated?
+Which channels/campaign types should potentially receive less investment?
 ---
 
 # 📐 KPI Definitions
