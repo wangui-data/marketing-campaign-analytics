@@ -145,7 +145,8 @@ Derived marketing metrics were intentionally removed so they could be calculated
 # ❓ Key Business Questions
 
 This project will help investigate
-**Channel performance**
+
+### Channel performance
 
 Which channels generate the most impressions, clicks, conversions and revenue?
 
@@ -156,7 +157,7 @@ Which channels have the highest conversion rate?
 Which channels have the best ROAS?
 
 
-**Campaign performance**
+### Campaign performance
 
 Which campaigns generate the most revenue?
 
@@ -167,7 +168,7 @@ Which campaigns have the lowest CPA?
 Which campaigns are underperforming relative to their spend?
 
 
-**Customer quality**
+### Customer quality
 
 Which campaigns generate the highest LTV?
 
@@ -176,7 +177,7 @@ Does higher conversion volume correspond to higher customer value?
 Which channels attract the most valuable customers?
 
 
-**Audience & geography**
+### Audience & geography
 
 Which target audiences perform best?
 
@@ -185,7 +186,7 @@ Which locations generate the most revenue?
 Are some audiences expensive to acquire but highly valuable?
 
 
-**Budget allocation**
+### Budget allocation
 
 Where should additional marketing budget be allocated?
 
