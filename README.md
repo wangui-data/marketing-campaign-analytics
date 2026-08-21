@@ -19,20 +19,6 @@ Rather than relying on pre-calculated marketing metrics, every KPI is dynamicall
 
 ---
 
-# 📌 Executive Summary
-
-The objective of this analysis is to evaluate the effectiveness of Aura Beauty's paid marketing strategy using industry-standard acquisition metrics such as:
-
-- Customer Acquisition Cost (CAC)
-- Return on Ad Spend (ROAS)
-- Customer Lifetime Value (LTV)
-- LTV:CAC Ratio
-- Click Through Rate (CTR)
-- Cost Per Click (CPC)
-
-The final recommendations focus on how the marketing team should redistribute advertising budget for **Q3** to maximize long-term profitability rather than simply increasing traffic.
-
----
 
 # 🎯 Business Problem
 
@@ -223,7 +209,20 @@ After completing this project, stakeholders will understand:
 - How to improve marketing ROI in Q3
 - How to correctly calculate portfolio marketing KPIs
 
+# 📌 Executive Summary
 
+The objective of this analysis is to evaluate the effectiveness of Aura Beauty's paid marketing strategy using industry-standard acquisition metrics such as:
+
+- Customer Acquisition Cost (CAC)
+- Return on Ad Spend (ROAS)
+- Customer Lifetime Value (LTV)
+- LTV:CAC Ratio
+- Click Through Rate (CTR)
+- Cost Per Click (CPC)
+
+The final recommendations focus on how the marketing team should redistribute advertising budget for **Q3** to maximize long-term profitability rather than simply increasing traffic.
+
+---
 
 
 
