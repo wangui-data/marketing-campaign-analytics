@@ -2,10 +2,7 @@
 
 # 💄 Aura Beauty: Q2 Digital Marketing Analysis
 
-![Domain](https://img.shields.io/badge/Domain-E--Commerce%20%26%20Marketing-brightgreen?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-Modeling-darkgreen?style=for-the-badge)
-
+**MySQL** · **Excel** · **EDA**· **Power BI** · **DAX** · **Power Query** · **Business Intelligence**
 ---
 
 ## 📖 Project Overview
