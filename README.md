@@ -2,7 +2,7 @@
 
 # 💄 Aura Beauty: Q2 Digital Marketing Analysis
 
-**MySQL** · **Excel** · **EDA**· **Power BI** · **DAX** · **Power Query** · **Business Intelligence**
+**Excel** · **EDA**· **Power BI** · **DAX** · **Power Query** · **Business Intelligence**
 
 ---
 
