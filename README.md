@@ -3,6 +3,7 @@
 # 💄 Aura Beauty: Q2 Digital Marketing Analysis
 
 **MySQL** · **Excel** · **EDA**· **Power BI** · **DAX** · **Power Query** · **Business Intelligence**
+
 ---
 
 ## 📖 Project Overview
@@ -251,18 +252,16 @@ ROAS = Σ Revenue / Σ Ad Spend
 LTV:CAC = LTV / CAC
 ```
 
----
 
-# ✅
 ---
 
 # 📊 Deliverables
 
-- ✔ Data cleaning workflow
-- ✔ Power BI dashboard
-- ✔ DAX calculations
-- ✔ Business insights
-- ✔ Executive recommendations
+ ✔ Data cleaning workflow
+ ✔ Power BI dashboard
+ ✔ DAX calculations
+ ✔ Business insights
+ ✔ Executive recommendations
 
 ---
 
