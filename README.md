@@ -269,24 +269,11 @@ LTV:CAC = LTV / CAC
 
 After completing this project, stakeholders will understand:
 
-- Which marketing channel deserves more investment
-- Which campaigns destroy profitability
-- Which customer acquisition strategy scales best
-- How to improve marketing ROI in Q3
-- How to correctly calculate portfolio marketing KPIs
 
 # 📌 Executive Summary
 
 The objective of this analysis is to evaluate the effectiveness of Aura Beauty's paid marketing strategy using industry-standard acquisition metrics such as:
 
-- Customer Acquisition Cost (CAC)
-- Return on Ad Spend (ROAS)
-- Customer Lifetime Value (LTV)
-- LTV:CAC Ratio
-- Click Through Rate (CTR)
-- Cost Per Click (CPC)
-
-The final recommendations focus on how the marketing team should redistribute advertising budget for **Q3** to maximize long-term profitability rather than simply increasing traffic.
 
 ---
 
