@@ -265,14 +265,9 @@ LTV:CAC = LTV / CAC
 
 ---
 
-# 📈 Expected Insights
+# 📈 Insights
 
 After completing this project, stakeholders will understand:
-
-
-# 📌 Executive Summary
-
-The objective of this analysis is to evaluate the effectiveness of Aura Beauty's paid marketing strategy using industry-standard acquisition metrics such as:
 
 
 ---
